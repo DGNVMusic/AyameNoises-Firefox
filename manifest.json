@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+  "name": "Play Ayame Noise",
+  "version": "1.0",
+  "description": "Play Ayame Noises from any tab",
+  "icons": {
+    "16": "media/image/icon/16.png",
+    "32": "media/image/icon/32.png",
+    "48": "media/image/icon/48.png",
+    "128": "media/image/icon/128.png"
+  },
+  "browser_action": {
+    "default_icon": "media/image/icon/48.png",
+    "default_title": "Play Ayame Noise",
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "media/js/content.js"
+      ]
+    }
+  ]
+}
