@@ -1,5 +1,11 @@
 
 # AyameNoises for FireFox
+[![Firefox Status](https://img.shields.io/badge/FireFox%20Status-Under%20Review-ffa500?logo=firefox&style=for-the-badge&logoColor=white&labelColor=333333)](hhttps://addons.mozilla.org/en-US/firefox/addon/ayame-noises/)
+<br>
+![Manifest version](https://img.shields.io/badge/FireFox%20Manifest%20Version-v3-F0B6D5?logo=firefox&style=for-the-badge&logoColor=white&labelColor=333333)
+<br>
+![Version](https://img.shields.io/badge/Version-v1.2-ef0000?style=for-the-badge&labelColor=333333) ![Cups of coffee](https://img.shields.io/badge/Cups%20of%20coffee%20wasted-55-900c3f?logo=ko-fi&style=for-the-badge&logoColor=white&labelColor=333333)
+<br>
 Plays a random Nakiri Ayame sound in your browser tab
 <br>
 Current voice count: **58 unique voices**
