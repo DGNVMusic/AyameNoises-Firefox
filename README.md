@@ -1,6 +1,6 @@
 
 # AyameNoises for FireFox
-[![Firefox Status](https://img.shields.io/badge/FireFox%20Status-Under%20Review-ffa500?logo=firefox&style=for-the-badge&logoColor=white&labelColor=333333)](hhttps://addons.mozilla.org/en-US/firefox/addon/ayame-noises/)
+[![Firefox Status](https://img.shields.io/badge/FireFox%20Status-Under%20Review-ffa500?logo=firefox&style=for-the-badge&logoColor=white&labelColor=333333)](https://addons.mozilla.org/en-US/firefox/addon/ayame-noises/)
 <br>
 ![Manifest version](https://img.shields.io/badge/FireFox%20Manifest%20Version-v3-F0B6D5?logo=firefox&style=for-the-badge&logoColor=white&labelColor=333333)
 <br>
