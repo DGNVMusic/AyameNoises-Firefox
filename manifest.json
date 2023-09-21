@@ -7,7 +7,7 @@
     "16": "media/image/icon/16.jpg",
     "32": "media/image/icon/32.jpg",
     "48": "media/image/icon/48.jpg",
-    "128": "media/image/icon/128.pnjpgg"
+    "128": "media/image/icon/128.jpg"
   },
   "browser_action": {
     "default_icon": "media/image/icon/48.jpg",
